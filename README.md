@@ -26,7 +26,5 @@ We are also going to use datasets that have information on the mean years of sch
 * Finishing our report / datastory - milestone 3 (on / before 20/12)
 
 # Questions for TAs
-* Do you have any particular questions regarding stackoverflow from your daily usage and expect us to answer?
-
-# Questions for TAs NEW
-* Does the focus seem valid?
+* Does the new focus seem valid?
+* Do the mentioned fancier analysis methods seem doable? Like will clustering with categorical data be a good idea?
