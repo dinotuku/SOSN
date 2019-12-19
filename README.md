@@ -28,3 +28,62 @@ We are also going to use datasets that have information on the mean years of sch
 # Questions for TAs
 * Does the new focus seem valid?
 * Do the mentioned fancier analysis methods seem doable? Like will clustering with categorical data be a good idea?
+
+*Example* 
+John: Plotting graphs during data analysis, crawling the data, preliminary data analysis; 
+Mary: Problem formulation, coming up with the algorithm; 
+Chris: Coding up the algorithm, running tests, tabulating final results; 
+Eve: Writing up the report or the data story, preparing the final presentation.
+
+# Milestone 3
+
+## Contribution from each member:
+
+* Data requirement
+
+  1. Use google bigquery to fetch our dataset(Severi,Kuan )
+
+  2. Fecth related dataset(Kuan?)
+
+* Data Cleaning and preliminary analysis
+  1. cleaning survey data of 4years, make them in the same schema (David)
+  2. clean the google bigquery data(Severi )
+  3. explore the survey data of 2015,2016(Saibo)
+  4. explore the survey data of 2017,2018(David)
+  5. explore the google bigquery data (Severi)
+
+* ### Analysis and visualization of survey data (combine 4 years)
+
+  1. dist of programming language ,(Severi)
+  2. dist by visit freq ,analysis +plot(Severi)
+  3. correlation of visit freq with level of experience ,analysis +plot(Saibo)
+  4. correlation of visit freq with self-claimed programming ability,analysis +plot (Saibo)
+  5. correlation of visit freq with job satisfaction,analysis +plot (Severi)
+  6. dist of company size (maybe not but we have it)
+  7. user dist by countries (actual numbers and per capita) (map -> Saibo, probably don’t include the pie chart)(  Saibo , David)
+  8. Chinese stackoverflow user (Machine Learning (linear regression), find the actual active user in China) (Saibo)
+  9. active user analysis (asian countries have higher active rate) (Saibo)
+  10. dist by age range (only have 2019) (Saibo)
+  11. correlation of visit freq with age (age only have 2019) (Saibo)
+  12. Geographical distribution of user (absolute amount of actual users) (merge with map 7 - Saibo)
+
+  ###  Analysis and visualization of  BigQuery
+  
+  1. Questions per user (David,Saibo)
+  2. Questions per country (David,Saibo)
+  3. Questions per user per country (David,Saibo)
+  4. Answers per user (David,Saibo)
+  5. Answers per country analysis +plot(David,Saibo)
+  6. Answers per user per country analysis +plot(David,Saibo)
+  7. Questions / Answers per user per country (tendency of asking questions) analysis +plot(David,Saibo)
+  8. User: question and answer scatter plot (influence of experience)analysis +plot (David)
+  9. Flow of information (directed graph)analysis +plot (David)
+  10. Number of QA during weekday and weekend, analysis+plot (Severi)
+11. QA frequency during working hour and outside working hour, analysis +plot (Kuan)
+  
+12. Use matrix factorisation(unsupervised learning) to detect clustering of programming lauguage / persona (Severi)
+  
+
+	
+	###   Build webpage for data story
+	- regroup the analysis and plots of the whole team, make them compatible, and build the webpage. (Kuan)
