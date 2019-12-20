@@ -1,6 +1,6 @@
 # Stack Overflow as a Social Network
 
-The datastory: https://stack-overflow-as-a-social-network.github.io/
+The datastory: https://stack-overflow-as-a-social-network.github.io/  
 The source of the datastory: https://github.com/Stack-Overflow-as-a-Social-Network/stack-overflow-as-a-social-network.github.io
 
 ## Abstract
