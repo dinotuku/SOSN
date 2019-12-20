@@ -87,3 +87,8 @@ Eve: Writing up the report or the data story, preparing the final presentation.
 	
 	###   Build webpage for data story
 	- regroup the analysis and plots of the whole team, make them compatible, and build the webpage. (Kuan)
+
+## Presentation
+
+* The poster will be designed by the whole team
+* The 3 minutes talk will be given by Saibo Geng
