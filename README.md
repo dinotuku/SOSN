@@ -5,7 +5,7 @@ Stack Overflow as a Social Network
 
 > User interaction analysis on Stack Overflow.
 
-Datastory website https://stack-overflow-as-a-social-network.github.io/  
+Datastory website https://stack-overflow-as-a-social-network.github.io ([repository link](https://github.com/Stack-Overflow-as-a-Social-Network/stack-overflow-as-a-social-network.github.io ))  
 
 ## Abstract
 For most people doing coding today, Stack Overflow should not be an unfamiliar site. It is being used by thousands and potentially millions of people from all over the world each day to find solutions to problems. Users interact with each other on Stack Overflow almost like on social network, where they can raise questions, give answers, write comments etc. The main idea of our project is that it would be interesting to see what are the users of Stack Overflow (SO) really like and how they are interaction with each other across the world. Which countries contribute the most to the site, and in which ways? The information could be very interesting to us and also SO itself, since it would allow us to understand the users interaction behavior more. Since SO is such a large and widely used site for help in programming, it is also interesting in a wider perspective since the results could reflect something about how the programming community works as a whole. 
