@@ -1,0 +1,7 @@
+plotly
+pycountry 
+country_converter
+pycountry_convert
+bs4
+requests
+countryinfo
